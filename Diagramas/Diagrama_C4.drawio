@@ -176,17 +176,17 @@
             <mxGeometry height="670" width="1400" x="210" y="190" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Web Application" c4Type="Container" c4Technology="React TypeScript" c4Description="Portal para administradores y clientes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,2XVK7RYDKxdhMDquu4st" id="lYJF4gXNzrw0ycB4rWT1-0">
+        <object placeholders="1" c4Name="Web Application" c4Type="Container" c4Technology="React TypeScript" c4Description="Portal para administradores y clientes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,PADSnYsh" id="lYJF4gXNzrw0ycB4rWT1-0">
           <mxCell parent="6M9tTkYtrs8H_QPtwX7E-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="110.00000000000001" width="160" x="240" y="220" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="API Gateway" c4Type="Container" c4Technology="AWS API Gateway" c4Description="Enruta las peticiones, valida autenticación y limita el uso por operador" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lYJF4gXNzrw0ycB4rWT1-2">
+        <object placeholders="1" c4Name="API Gateway" c4Type="Container" c4Technology="AWS API Gateway" c4Description="Enruta las peticiones, valida autenticación y limita el uso por operador" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,oPQKpDEH" id="lYJF4gXNzrw0ycB4rWT1-2">
           <mxCell parent="6M9tTkYtrs8H_QPtwX7E-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="110.00000000000001" width="160" x="500" y="405" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Mobile Application" c4Type="Container" c4Technology="React Native" c4Description="App para choferes y clientes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lYJF4gXNzrw0ycB4rWT1-5">
+        <object placeholders="1" c4Name="Mobile Application" c4Type="Container" c4Technology="React Native" c4Description="App para choferes y clientes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,zmnJG54W" id="lYJF4gXNzrw0ycB4rWT1-5">
           <mxCell parent="6M9tTkYtrs8H_QPtwX7E-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="110.00000000000001" width="160" x="240" y="560" as="geometry" />
           </mxCell>
@@ -283,7 +283,7 @@
             <mxGeometry height="90" width="161" x="1379" y="905" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Servicio Principal" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona operadores, configuración, roles, clientes, pasajeros, perfiles médicos y choferes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="toH88DmS1fSpqEX-mHtw-0">
+        <object placeholders="1" c4Name="Servicio Principal" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona operadores, configuración, roles, clientes, pasajeros, perfiles médicos y choferes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,zmoZ3FxV" id="toH88DmS1fSpqEX-mHtw-0">
           <mxCell parent="6M9tTkYtrs8H_QPtwX7E-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="110" width="180" x="740" y="220" as="geometry" />
           </mxCell>
@@ -293,7 +293,7 @@
             <mxGeometry height="130" width="170" x="1050" y="210" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Servicio Operaciones" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona rutas, ubicación en tiempo real, abordajes/entregas, solicitudes especiales e incidentes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="toH88DmS1fSpqEX-mHtw-2">
+        <object placeholders="1" c4Name="Servicio Operaciones" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona rutas, ubicación en tiempo real, abordajes/entregas, solicitudes especiales e incidentes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,e9EcdE4F" id="toH88DmS1fSpqEX-mHtw-2">
           <mxCell parent="6M9tTkYtrs8H_QPtwX7E-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="130" width="180" x="740" y="550" as="geometry" />
           </mxCell>
@@ -303,7 +303,7 @@
             <mxGeometry height="130" width="180" x="1060" y="550" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Servicio de Interacción" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Orquesta notificaciones " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="toH88DmS1fSpqEX-mHtw-4">
+        <object placeholders="1" c4Name="Servicio de Interacción" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Orquesta notificaciones " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,IxFaaRdm" id="toH88DmS1fSpqEX-mHtw-4">
           <mxCell parent="6M9tTkYtrs8H_QPtwX7E-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="130" width="180" x="1370" y="550" as="geometry" />
           </mxCell>
@@ -390,7 +390,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="REST API" c4Description="Enruta roles, operadores y gestión de personas" label="&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="toH88DmS1fSpqEX-mHtw-15">
+        <object placeholders="1" c4Type="Relationship" c4Technology="REST API" c4Description="Gestiona identidades y roles" label="&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="toH88DmS1fSpqEX-mHtw-15">
           <mxCell edge="1" parent="6M9tTkYtrs8H_QPtwX7E-1" source="toH88DmS1fSpqEX-mHtw-0" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="3gQtcwbc6WKx3OZ6XOFv-1">
             <mxGeometry relative="1" width="160" x="-0.0005" as="geometry">
               <mxPoint as="offset" />
@@ -479,8 +479,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PADSnYsh" name="L3 - Aplicación Web">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1160" math="0" shadow="0">
+  <diagram id="PADSnYsh" name="C4 Component Web Application">
+    <mxGraphModel dx="3874" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1160" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,10 +499,12 @@
             <mxGeometry height="110" width="160" x="-493" y="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="pVKs9xkZ" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Web Application&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Component]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="570" width="740" x="-780" y="210" as="geometry" />
-        </mxCell>
-        <object placeholders="1" c4Name="Módulo de Configuración de Rutas y Flota" c4Type="Component" c4Technology="React TypeScript" c4Description="Permite configurar rutas, vehículos y choferes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="rLpyFvqa">
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Web Application&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Container: React TypeScript]&lt;/b&gt;&lt;/div&gt;" link="data:page/id,2nEQqk8vqjvp5pIvVhEa" id="pVKs9xkZ">
+          <mxCell link="data:page/id,2nEQqk8vqjvp5pIvVhEa" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" vertex="1">
+            <mxGeometry height="570" width="740" x="-780" y="210" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object placeholders="1" c4Name="Módulo de Configuración de Rutas y Choferes" c4Type="Component" c4Technology="React TypeScript" c4Description="Permite configurar rutas y choferes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="rLpyFvqa">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
             <mxGeometry height="110" width="160" x="-730" y="260" as="geometry" />
           </mxCell>
@@ -642,7 +644,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2nEQqk8vqjvp5pIvVhEa" name="L4 Aplicación Web Class">
+  <diagram id="2nEQqk8vqjvp5pIvVhEa" name="C4 Code Web Application">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1000,8 +1002,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zmnJG54W" name="L3 - Aplicación Móvil">
-    <mxGraphModel dx="2718" dy="2126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1160" math="0" shadow="0">
+  <diagram id="zmnJG54W" name="C4 Component Mobile Application">
+    <mxGraphModel dx="3232" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1160" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1020,9 +1022,11 @@
             <mxGeometry height="110" width="160" x="920" y="480" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="DNebCAxa" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Mobile Application&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Component]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="570" width="740" x="40" y="230" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Mobile Application&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Container: React Native]&lt;/b&gt;&lt;/div&gt;" link="data:page/id,CRUV3qmx9GerxwQoyttH" id="DNebCAxa">
+          <mxCell link="data:page/id,CRUV3qmx9GerxwQoyttH" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" vertex="1">
+            <mxGeometry height="570" width="740" x="40" y="230" as="geometry" />
+          </mxCell>
+        </UserObject>
         <object placeholders="1" c4Name="Módulo de Ejecución de Ruta" c4Type="Component" c4Technology="React Native" c4Description="Registra abordajes, entregas y estado de la ruta activa (chofer)." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Oep9DqTR">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
             <mxGeometry height="110" width="160" x="60" y="250" as="geometry" />
@@ -1153,7 +1157,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="L4 Aplicación Movil Class" id="CRUV3qmx9GerxwQoyttH">
+  <diagram name="C4 Code Mobile Application" id="CRUV3qmx9GerxwQoyttH">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_lgSmaLb055iMd1qQty2-0" />
@@ -1416,91 +1420,88 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oPQKpDEH" name="L3 - API Gateway">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1400" pageHeight="960" math="0" shadow="0">
+  <diagram id="oPQKpDEH" name="C4 Component API Gateway">
+    <mxGraphModel dx="1924" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="960" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="Aplicación Web" c4Type="Container" c4Technology="React TypeScript" c4Description="Interfaz de administradores." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="197Ib13d">
+        <object placeholders="1" c4Name="Web Application" c4Type="Container" c4Technology="React TypeScript" c4Description="Portal para administradores y clientes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="197Ib13d">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="10" y="60" as="geometry" />
+            <mxGeometry height="110" width="160" x="1125" y="20" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Aplicación Móvil" c4Type="Container" c4Technology="React Native" c4Description="Interfaz de choferes y clientes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="m00pCCtv">
+        <object placeholders="1" c4Name="Mobile Application" c4Type="Container" c4Technology="React Native" c4Description="App para choferes y clientes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="m00pCCtv">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="10" y="300" as="geometry" />
+            <mxGeometry height="110" width="160" x="830" y="-10" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Proveedor de Identidad" c4Type="Software System" c4Description="Gestiona autenticación y credenciales." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="PPS1eYOC">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="90" width="160" x="580" y="20" as="geometry" />
+            <mxGeometry height="90" width="160" x="540" y="20" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Servicio Principal" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona operadores, usuarios, vehículos y configuraciones." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Gc94V65q">
+        <object placeholders="1" c4Name="Servicio Principal" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona operadores, configuración, roles, clientes, pasajeros, perfiles médicos y choferes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Gc94V65q">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1100" y="210" as="geometry" />
+            <mxGeometry height="120" width="170" x="1120" y="220" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Servicio Operaciones" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona rutas, seguimiento, abordajes e incidentes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WyZFSJvs">
+        <object placeholders="1" c4Name="Servicio Operaciones" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Gestiona rutas, ubicación en tiempo real, abordajes/entregas, solicitudes especiales e incidentes" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WyZFSJvs">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1100" y="340" as="geometry" />
+            <mxGeometry height="120" width="170" x="1110" y="470" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Servicio de Interacción" c4Type="Container" c4Technology="Node.js Microservicio" c4Description="Orquesta notificaciones." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="sgi4YjJM">
-          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1100" y="470" as="geometry" />
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;API Gateway&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Container: AWS API Gateway]&lt;/b&gt;&lt;/div&gt;" link="data:page/id,brqZCfCqayRbcr1nn4kG" id="DDBEz3Np">
+          <mxCell link="data:page/id,brqZCfCqayRbcr1nn4kG" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" vertex="1">
+            <mxGeometry height="510" width="800" x="250" y="140" as="geometry" />
           </mxCell>
-        </object>
-        <mxCell id="DDBEz3Np" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;API Gateway&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Component]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="460" width="800" x="250" y="140" as="geometry" />
-        </mxCell>
+        </UserObject>
         <object placeholders="1" c4Name="Validación de Solicitudes" c4Type="Component" c4Technology="AWS API Gateway" c4Description="Valida el esquema y formato de las solicitudes antes de invocar el backend." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="AQcdSp3o">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="140" width="180" x="280" y="170" as="geometry" />
+            <mxGeometry height="140" width="180" x="280" y="180" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Autorizador Personalizado" c4Type="Component" c4Technology="AWS Lambda" c4Description="Verifica el token del Proveedor de Identidad y resuelve el contexto del operador." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lKqAW8R5">
+        <object placeholders="1" c4Name="Autorizador JWT" c4Type="Component" c4Technology="AWS API Gateway / JWT Authorizer" c4Description="Valida el JWT con OIDC/JWKS y propaga los claims y el contexto del operador." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lKqAW8R5">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="140" width="180" x="570" y="175" as="geometry" />
+            <mxGeometry height="140" width="180" x="820" y="190" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Planes de Uso y Limitación de Tráfico" c4Type="Component" c4Technology="AWS API Gateway" c4Description="Limita el tráfico y aplica cuotas por operador (Usage Plans / API Keys)." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="sqsrxHpC">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="140" width="180" x="860" y="175" as="geometry" />
+            <mxGeometry height="140" width="180" x="590" y="330" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Enrutamiento de Recursos y Métodos" c4Type="Component" c4Technology="AWS API Gateway" c4Description="Enruta cada solicitud REST al microservicio correspondiente según el recurso." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="rAr3XGuK">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="140" width="180" x="290" y="400" as="geometry" />
+            <mxGeometry height="140" width="180" x="280" y="460" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Integración con Backend" c4Type="Component" c4Technology="AWS API Gateway" c4Description="Conecta el Gateway con los microservicios internos desplegados en la nube privada." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="YECAjwou">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="140" width="180" x="720" y="400" as="geometry" />
+            <mxGeometry height="140" width="180" x="810" y="460" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/REST" c4Description="Solicitudes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="ULUEuTea">
-          <mxCell edge="1" parent="1" source="197Ib13d" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="AQcdSp3o">
+          <mxCell edge="1" parent="1" source="197Ib13d" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="lKqAW8R5">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/REST" c4Description="Solicitudes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="LLtXUHn3">
-          <mxCell edge="1" parent="1" source="m00pCCtv" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="AQcdSp3o">
+          <mxCell edge="1" parent="1" source="m00pCCtv" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="lKqAW8R5">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Description="solicitud válida" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="Tibm9sIJ">
-          <mxCell edge="1" parent="1" source="AQcdSp3o" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="lKqAW8R5">
+        <object placeholders="1" c4Type="Relationship" c4Description="token y contexto válidos" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="Tibm9sIJ">
+          <mxCell edge="1" parent="1" source="lKqAW8R5" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="AQcdSp3o">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS" c4Description="verifica token" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="D0Ftk3vS">
+        <object placeholders="1" c4Type="Relationship" c4Technology="OIDC / JWKS" c4Description="valida JWT" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="D0Ftk3vS">
           <mxCell edge="1" parent="1" source="lKqAW8R5" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="PPS1eYOC">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Description="contexto resuelto" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="KLj4UAXu">
-          <mxCell edge="1" parent="1" source="lKqAW8R5" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="sqsrxHpC">
+        <object placeholders="1" c4Type="Relationship" c4Description="solicitud válida" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="KLj4UAXu">
+          <mxCell edge="1" parent="1" source="AQcdSp3o" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="sqsrxHpC">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -1521,11 +1522,6 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/REST" c4Description="invoca" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="BduSmlwX">
           <mxCell edge="1" parent="1" source="YECAjwou" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="WyZFSJvs">
-            <mxGeometry relative="1" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/REST" c4Description="invoca" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="etyzSuAB">
-          <mxCell edge="1" parent="1" source="YECAjwou" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="sgi4YjJM">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -1579,7 +1575,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="L4  API Gateway" id="brqZCfCqayRbcr1nn4kG">
+  <diagram name="C4 Code API Gateway" id="brqZCfCqayRbcr1nn4kG">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OiVb_Nbb_H1zZwVA4i5L-0" />
@@ -1880,71 +1876,98 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zmoZ3FxV" name="L3 - Servicio Principal">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1400" pageHeight="1130" math="0" shadow="0">
+  <diagram id="zmoZ3FxV" name="C4 Component Main Service">
+    <mxGraphModel dx="4286" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1130" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="API Gateway" c4Type="Container" c4Technology="AWS API Gateway" c4Description="Enruta solicitudes autenticadas hacia los microservicios." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oW2oZeMq">
+        <object placeholders="1" c4Name="API Gateway" c4Type="Container" c4Technology="AWS API Gateway" c4Description="Enruta las peticiones, valida autenticación y limita el uso por operador" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oW2oZeMq">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="500" y="-40" as="geometry" />
+            <mxGeometry height="110" width="160" x="1580" y="40" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Bus de Eventos" c4Type="Container" c4Technology="Apache Kafka" c4Description="Canal de mensajería asíncrona y eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Fdt3K2Qu">
-          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="560" y="820" as="geometry" />
+        <object placeholders="1" c4Name="Proveedor de Identidad" c4Type="Software System" c4Description="Servicio externo encargado de autenticación y gestión de credenciales." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="l3-main-identity-provider">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
+            <mxGeometry height="100" width="170" x="665" y="-160" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="BD Servicio Principal" c4Type="Database" c4Technology="PostgreSQL" c4Description="Operadores, usuarios, clientes, pasajeros, choferes, vehículos, perfiles médicos y configuraciones." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Eza612Pd">
+        <object placeholders="1" c4Name="BD Servicio Principal" c4Type="Database" c4Technology="PostgreSQL" c4Description="Operadores, usuarios, roles, pasajeros, perfiles médicos y choferes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Eza612Pd">
           <mxCell parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="150" width="180" x="-60" y="480" as="geometry" />
+            <mxGeometry height="150" width="180" x="-190" y="370" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="jOE0n6P1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Servicio Principal&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Component]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="620" width="1030" x="250" y="150" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Servicio Principal&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Container: Node.js Microservicio]&lt;/b&gt;&lt;/div&gt;" link="data:page/id,VEJt8wAd_fhxHWxn_sAM" id="jOE0n6P1">
+          <mxCell link="data:page/id,VEJt8wAd_fhxHWxn_sAM" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" vertex="1">
+            <mxGeometry height="900" width="1280" x="200" y="10" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object placeholders="1" c4Name="API REST / Capa de Aplicación" c4Type="Component" c4Technology="Node.js" c4Description="Punto de entrada del servicio; recibe solicitudes autenticadas y el contexto del operador desde el API Gateway." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="l3-main-api">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
+            <mxGeometry height="110" width="180" x="1240" y="50" as="geometry" />
+          </mxCell>
+        </object>
         <object placeholders="1" c4Name="Gestión de Operadores" c4Type="Component" c4Technology="Node.js" c4Description="Gestiona el ciclo de vida de los operadores y sus configuraciones generales." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="56lAkkTP">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="560" y="200" as="geometry" />
+            <mxGeometry height="110" width="160" x="670" y="170" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Gestión de Usuarios y Roles" c4Type="Component" c4Technology="Node.js" c4Description="Administra usuarios, roles y su relación con cada operador." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="pTqeFhY6">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="790" y="200" as="geometry" />
+            <mxGeometry height="110" width="160" x="670" y="40" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Gestión de Clientes y Pasajeros" c4Type="Component" c4Technology="Node.js" c4Description="Administra la información de clientes y de los pasajeros a su cargo." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="o0KcYmBM">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1010" y="410" as="geometry" />
+            <mxGeometry height="110" width="160" x="670" y="465" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Gestión de Choferes y Vehículos" c4Type="Component" c4Technology="Node.js" c4Description="Administra la información de choferes y vehículos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="aJzldiJu">
+        <object placeholders="1" c4Name="Gestión de Choferes" c4Type="Component" c4Technology="Node.js" c4Description="Administra la información de choferes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="aJzldiJu">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="310" y="200" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Gestión de Perfiles Médicos/Veterinarios" c4Type="Component" c4Technology="Node.js" c4Description="Gestiona perfiles médicos o veterinarios de emergencia." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="RmPR3aLD">
-          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1010" y="260" as="geometry" />
+            <mxGeometry height="110" width="160" x="670" y="780" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Gestión de Configuración" c4Type="Component" c4Technology="Node.js" c4Description="Administra configuraciones regionales y generales de la plataforma." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="NTPYkRF2">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1010" y="565" as="geometry" />
+            <mxGeometry height="110" width="160" x="670" y="620" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Capa de Acceso a Datos (Repository)" c4Type="Component" c4Technology="Node.js / ORM" c4Description="Encapsula el acceso a PostgreSQL aplicando aislamiento por operador." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="RK0uZjjK">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="280" y="500" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Publicador de Eventos (Outbox)" c4Type="Component" c4Technology="Node.js" c4Description="Publica eventos de negocio hacia el Bus de Eventos (patrón Transactional Outbox)." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="rABOBG4C">
-          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="560" y="640" as="geometry" />
+            <mxGeometry height="110" width="160" x="230" y="390" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/REST" c4Description="Solicitudes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="etrMcSAO">
-          <mxCell edge="1" parent="1" source="oW2oZeMq" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="pTqeFhY6">
+          <mxCell edge="1" parent="1" source="oW2oZeMq" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="l3-main-api">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-main-api-operators">
+          <mxCell edge="1" parent="1" source="l3-main-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="56lAkkTP">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-main-api-users">
+          <mxCell edge="1" parent="1" source="l3-main-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="pTqeFhY6">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-main-api-customers">
+          <mxCell edge="1" parent="1" source="l3-main-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="o0KcYmBM">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-main-api-drivers">
+          <mxCell edge="1" parent="1" source="l3-main-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="aJzldiJu">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-main-api-profiles">
+          <mxCell edge="1" parent="1" source="l3-main-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="RmPR3aLD">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-main-api-config">
+          <mxCell edge="1" parent="1" source="l3-main-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="NTPYkRF2">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -1955,6 +1978,11 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="usa" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="KLnOslux">
           <mxCell edge="1" parent="1" source="pTqeFhY6" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="RK0uZjjK">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="REST API" c4Description="Gestiona identidades y roles" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l3-main-identity-integration">
+          <mxCell edge="1" parent="1" source="pTqeFhY6" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="l3-main-identity-provider">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -1980,16 +2008,6 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="lee/escribe" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="8kgw3EmI">
           <mxCell edge="1" parent="1" source="RK0uZjjK" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="Eza612Pd">
-            <mxGeometry relative="1" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Description="cambios de dominio" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="PrQ4bdF8">
-          <mxCell edge="1" parent="1" source="RK0uZjjK" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="rABOBG4C">
-            <mxGeometry relative="1" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="Kafka" c4Description="publica eventos" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="mrbe09qX">
-          <mxCell edge="1" parent="1" source="rABOBG4C" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="Fdt3K2Qu">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -2040,10 +2058,18 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <object placeholders="1" c4Name="Gestión de Perfiles Médicos/Veterinarios" c4Type="Component" c4Technology="Node.js" c4Description="Gestiona perfiles médicos o veterinarios de emergencia." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="RmPR3aLD">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
+            <mxGeometry height="110" width="160" x="670" y="310" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HBNdCQBzNgpXqzu0BZbv-4" edge="1" parent="1" source="jOE0n6P1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jOE0n6P1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="L4 Servicio Principal" id="VEJt8wAd_fhxHWxn_sAM">
+  <diagram name="C4 Code Main Service" id="VEJt8wAd_fhxHWxn_sAM">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XbXirVpdzos6JUG9cPDl-0" />
@@ -2502,71 +2528,103 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="e9EcdE4F" name="L3 - Servicio Operaciones">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1400" pageHeight="1130" math="0" shadow="0">
+  <diagram id="e9EcdE4F" name="C4 Component Operations Service">
+    <mxGraphModel dx="4607" dy="2666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1130" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="API Gateway" c4Type="Container" c4Technology="AWS API Gateway" c4Description="Enruta solicitudes autenticadas hacia los microservicios." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="baKz8Ir9">
+        <object placeholders="1" c4Name="API Gateway" c4Type="Container" c4Technology="AWS API Gateway" c4Description="Enruta las peticiones, valida autenticación y limita el uso por operador" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="baKz8Ir9">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="-30" y="210" as="geometry" />
+            <mxGeometry height="110" width="160" x="1590" y="20" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Bus de Eventos" c4Type="Container" c4Technology="Apache Kafka" c4Description="Canal de mensajería asíncrona y eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="O6bghqgH">
+        <object placeholders="1" c4Name="Bus de Eventos" c4Type="Container" c4Technology="Kafka" c4Description="Canal de mensajería asíncrona y eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="O6bghqgH">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="-60" y="580" as="geometry" />
+            <mxGeometry height="110" width="160" x="860" y="830" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="BD Servicio Operaciones" c4Type="Database" c4Technology="PostgreSQL" c4Description="Rutas, seguimiento, abordajes, entregas, solicitudes especiales e incidentes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="QigKZ4y9">
+        <object placeholders="1" c4Name="BD Servicio Operaciones" c4Type="Database" c4Technology="PostgreSQL" c4Description="Rutas, tracking, &#xa;abordajes, entregas, &#xa;solicitudes e incidentes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="QigKZ4y9">
           <mxCell parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="80" width="110" x="860" y="840" as="geometry" />
+            <mxGeometry height="160" width="190" x="-50" y="165" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Servicio de Mapas y Geolocalización" c4Type="Software System" c4Description="Cálculo de rutas y seguimiento en tiempo real." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="c3ucFcTs">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="90" width="160" x="500" y="-40" as="geometry" />
+            <mxGeometry height="90" width="160" x="640" y="-330" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="NxxO3XY2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Servicio Operaciones&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Component]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="620" width="1050" x="250" y="150" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Servicio Operaciones&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Container: Node.js Microservicio]&lt;/b&gt;&lt;/div&gt;" link="data:page/id,SJ375-RKcdru8k3Ead12" id="NxxO3XY2">
+          <mxCell link="data:page/id,SJ375-RKcdru8k3Ead12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" vertex="1">
+            <mxGeometry height="970" width="1200" x="250" y="-200" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object placeholders="1" c4Name="API REST / Capa de Aplicación" c4Type="Component" c4Technology="Node.js" c4Description="Punto de entrada del servicio; recibe solicitudes autenticadas y el contexto del operador desde el API Gateway." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="l3-ops-api">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
+            <mxGeometry height="110" width="180" x="1240" y="20" as="geometry" />
+          </mxCell>
+        </object>
         <object placeholders="1" c4Name="Planificación de Rutas" c4Type="Component" c4Technology="Node.js" c4Description="Planifica y programa las rutas activas." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="gu3Xv0kR">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="640" y="210" as="geometry" />
+            <mxGeometry height="110" width="160" x="640" y="300" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Seguimiento en Tiempo Real (GPS)" c4Type="Component" c4Technology="Node.js" c4Description="Procesa las actualizaciones de ubicación GPS de los vehículos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="wN8DE6pa">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1060" y="210" as="geometry" />
+            <mxGeometry height="110" width="160" x="640" y="-170" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Abordajes y Entregas" c4Type="Component" c4Technology="Node.js" c4Description="Registra confirmaciones de abordaje y entrega de pasajeros." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="0VUA7S8j">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1060" y="580" as="geometry" />
+            <mxGeometry height="110" width="160" x="640" y="140" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Gestión de Incidentes" c4Type="Component" c4Technology="Node.js" c4Description="Gestiona el registro y seguimiento de incidentes operativos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="gYDsxypd">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="300" y="350" as="geometry" />
+            <mxGeometry height="110" width="160" x="640" y="-10" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Solicitudes Especiales" c4Type="Component" c4Technology="Node.js" c4Description="Procesa las solicitudes especiales de los clientes." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="KUibebvz">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="1060" y="400" as="geometry" />
+            <mxGeometry height="110" width="160" x="640" y="460" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Capa de Acceso a Datos (Repository)" c4Type="Component" c4Technology="Node.js / ORM" c4Description="Encapsula el acceso a PostgreSQL aplicando aislamiento por operador." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="RZXEvwsF">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="640" y="565" as="geometry" />
+            <mxGeometry height="110" width="160" x="280" y="190" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Publicador de Eventos (Outbox)" c4Type="Component" c4Technology="Node.js" c4Description="Publica eventos operativos (abordajes, entregas, incidentes) al Bus de Eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="56z74bj0">
+        <object placeholders="1" c4Name="Publicador de Eventos" c4Type="Component" c4Technology="Node.js" c4Description="Publica eventos operativos de abordaje, entrega, solicitud e incidente al Bus de Eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="56z74bj0">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
-            <mxGeometry height="110" width="160" x="300" y="580" as="geometry" />
+            <mxGeometry height="110" width="160" x="640" y="610" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/REST" c4Description="Solicitudes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="w2o81WRb">
-          <mxCell edge="1" parent="1" source="baKz8Ir9" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="gu3Xv0kR">
+          <mxCell edge="1" parent="1" source="baKz8Ir9" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="l3-ops-api">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-ops-api-routes">
+          <mxCell edge="1" parent="1" source="l3-ops-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="gu3Xv0kR">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-ops-api-tracking">
+          <mxCell edge="1" parent="1" source="l3-ops-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="wN8DE6pa">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-ops-api-boardings">
+          <mxCell edge="1" parent="1" source="l3-ops-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="0VUA7S8j">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-ops-api-incidents">
+          <mxCell edge="1" parent="1" source="l3-ops-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="gYDsxypd">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="despacha comandos y consultas" label="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="l3-ops-api-requests">
+          <mxCell edge="1" parent="1" source="l3-ops-api" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;" target="KUibebvz">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -2665,7 +2723,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="L4 Servicio Operaciones" id="SJ375-RKcdru8k3Ead12">
+  <diagram name="C4 Code Operations Service" id="SJ375-RKcdru8k3Ead12">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YGIUc5wgmMuIOqOuvrwx-0" />
@@ -3120,12 +3178,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="IxFaaRdm" name="L3 - Servicio de Interacción">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="970" math="0" shadow="0">
+  <diagram id="IxFaaRdm" name="C4 Component Interaction Service">
+    <mxGraphModel dx="2898" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="970" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="Bus de Eventos" c4Type="Container" c4Technology="Apache Kafka" c4Description="Canal de mensajería asíncrona y eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="xNcc9XBv">
+        <object placeholders="1" c4Name="Bus de Eventos" c4Type="Container" c4Technology="Kafka" c4Description="Canal de mensajería asíncrona y eventos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="xNcc9XBv">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
             <mxGeometry height="110" width="160" x="-94" y="190" as="geometry" />
           </mxCell>
@@ -3135,9 +3193,16 @@
             <mxGeometry height="90" width="160" x="890" y="270" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Q5xnIB3S" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Servicio de Interacción&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Component]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="460" width="600" x="250" y="150" as="geometry" />
-        </mxCell>
+        <object placeholders="1" c4Type="Database" c4Technology="PostgreSQL" c4Description="Bitácora de auditoría." label="%c4Type%&lt;div&gt;[Container: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="l3-interaction-db">
+          <mxCell parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
+            <mxGeometry height="110" width="160" x="990" y="450" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Servicio de Interacción&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;[Container: Node.js Microservicio]&lt;/b&gt;&lt;/div&gt;" link="data:page/id,nq7L4UUGhRZeyx89FaO5" id="Q5xnIB3S">
+          <mxCell link="data:page/id,nq7L4UUGhRZeyx89FaO5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;align=left;arcSize=1;verticalAlign=bottom;strokeColor=#666666;fontColor=#666666;" vertex="1">
+            <mxGeometry height="460" width="600" x="250" y="150" as="geometry" />
+          </mxCell>
+        </UserObject>
         <object placeholders="1" c4Name="Consumidor de Eventos" c4Type="Component" c4Technology="Node.js / Kafka Consumer" c4Description="Consume eventos del Bus de Eventos relacionados con notificaciones." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qu5Qdb3T">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1">
             <mxGeometry height="110" width="160" x="300" y="190" as="geometry" />
@@ -3180,6 +3245,11 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="actualiza estado" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="2LXzBY6n">
           <mxCell edge="1" parent="1" source="HnN5Mpb1" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="UIcshfH1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="escribe bitácora de auditoría" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l3-interaction-db-write">
+          <mxCell edge="1" parent="1" source="UIcshfH1" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" target="l3-interaction-db">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
@@ -3233,7 +3303,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="L4 Servicio de Interacción" id="nq7L4UUGhRZeyx89FaO5">
+  <diagram name="C4 Code Interaction Service" id="nq7L4UUGhRZeyx89FaO5">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bwTYPAJLf2AsQM9saIYi-0" />
